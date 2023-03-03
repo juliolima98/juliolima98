@@ -1,16 +1,19 @@
 ### Hi there 👋
 
-<!--
-**juliolima98/juliolima98** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Información general
+## Nombre: **Julio Alejandro Vega Lima**
+## Edad: **24 Años**
+## Hobbys: **Tecnología**
 
-Here are some ideas to get you started:
+| Comando | Descripcion |
+|:------- |:-----------:|
+| ls      | Lista todos los archivos |
+| cd      | Cambia de directorio |
+| whoami  | Me dice user actual  |
+| sudo su | Ingresar como super usuario |
+| pwd     | Imprime ubicacion actual |
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# Comandos Alias Utiles
+1. ll: *es un alias para el comando ls -l, que muestra una lista detallada de los archivos y directorios en una carpeta*.
+
+2. grep: *es un alias para el comando grep --color=auto, que permite buscar texto en archivos o en la salida de otros comandos*. 
