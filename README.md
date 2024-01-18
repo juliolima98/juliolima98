@@ -4,6 +4,7 @@
 ## Nombre: **Julio Alejandro Vega Lima**
 ## Edad: **25 Años**
 ## Hobbys: **Tecnología, arte, escritura, lectura**
+Soy un amante de la tecnología, siempre intentando aprender cosas nuevas, poseo un Técnico en Sistemas Informáticos(2016-2018), mis tecnologías utilizadas actualmente son PHP(Backend) Framework(CodeIgniter), HTML, CSS, Javascript, Bootstrap(Frontend).
 
 | Comando | Descripcion |
 |:------- |:-----------:|
