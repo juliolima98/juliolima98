@@ -2,7 +2,7 @@
 
 # Información general
 ## Nombre: **Julio Alejandro Vega Lima**
-## Edad: **26 Años**
+## Edad: **27 Años**
 ## Hobbys: **Tecnología, arte, escritura, lectura**
 
 | Comando | Descripcion |
